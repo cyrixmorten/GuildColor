@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: |cffC41F3BG|r|cffFF7D0Au|r|cffABD473i|r|cff69CCF0l|r|cff00FF96d|r|cffF58CBAC|r|cffFFFFFFo|r|cffFFF569l|r|cff0070DEo|r|cff9482C9 r|r
+## Author: cYrix
+## OptionalDeps: X-Perl
+
+Cyrix_GuildColor.lua
